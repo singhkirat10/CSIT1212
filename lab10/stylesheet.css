@@ -1,0 +1,39 @@
+body {
+  max-width: 75%;
+}
+h1 {
+  font-family: cursive; 
+  color: darkgreen;
+  margin-left: 15px;}
+h3 {
+  text-transform: capitalize;
+  font-family: "times"; 
+  font-size: medium;
+  font-weight: normal;
+  color: black;
+  margin-left: 35px;}
+h2 {
+  font-weight: bolder;
+  margin-left: 15px;
+}
+body {
+  color: black;
+  background-color: skyblue;}
+ul li {
+  list-style: square;
+  margin-left: 65px;
+  color: darkred;
+  font-family: fantasy;
+  font-size: medium;
+  font-weight: normal;
+}
+p {
+  color: darkred;
+  font-family: fantasy;
+  font-size: medium;
+  font-weight: normal;
+  margin-left: 50px;
+}
+textarea {
+  margin-left: 50px;
+}
